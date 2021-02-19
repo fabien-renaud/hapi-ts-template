@@ -1,0 +1,19 @@
+{
+    "extends": [
+        "node",
+        "prettier",
+        "plugin:@typescript-eslint/eslint-recommended",
+        "plugin:@typescript-eslint/recommended"
+    ],
+    "parser": "@typescript-eslint/parser",
+    "plugins": ["prettier", "@typescript-eslint"],
+    "settings": {
+        "import/resolver": {
+            "node": {"extensions": [".ts"]}
+        }
+    },
+    "rules": {
+        "import/prefer-default-export": "off",
+        "prettier/prettier": ["error"]
+    }
+}
