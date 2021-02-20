@@ -1,6 +1,9 @@
 <h1 align="center">Welcome to hapi-ts-template 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/fabien-renaud/hapi-ts-template/blob/master/LICENSE" target="_blank">
+    <img alt="License: ISC" src="https://img.shields.io/github/license/fabien-renaud/hapi-ts-template
+  </a>
 </p>
 
 > Template for Hapi Typescript server
