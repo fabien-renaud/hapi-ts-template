@@ -40,6 +40,7 @@ npm run validate
 👤 **fabien-renaud**
 
 * Github: [@fabien-renaud](https://github.com/fabien-renaud)
+* Gitlab: [@fabien-renaud](https://gitlab.com/fabien-renaud)
 * LinkedIn: [@fabien-renaud](https://linkedin.com/in/fabien-renaud)
 
 ## 🤝 Contributing
